@@ -4,10 +4,38 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MultipleTargetsDemo.xcscheme_^#shared#^_</key>
+		<key>FirstApp.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>SecondApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E8E2B8522349A16900C1F219</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E8E2B8662349A16A00C1F219</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E8E2B8712349A16A00C1F219</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E8E2B8842349A1AF00C1F219</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

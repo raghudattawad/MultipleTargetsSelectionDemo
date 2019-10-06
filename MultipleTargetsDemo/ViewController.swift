@@ -13,6 +13,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+    
+    
+        #if Seeocnd
+            
+            
+    print("Second Target")
+        #else
+        print("first target")
+    
+    
+    
+        #endif
     }
 
 
